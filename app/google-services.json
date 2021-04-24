@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048761770174",
+    "project_id": "mynexty-212da",
+    "storage_bucket": "mynexty-212da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048761770174:android:e7ac9d0a90466b16be3eef",
+        "android_client_info": {
+          "package_name": "com.evilliousx.mynexty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048761770174-qtn53cufniu0f9l5eb9cj62o8162shvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvsmb1KENhc_4jlW9vE6YPye3BHMvxHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048761770174-qtn53cufniu0f9l5eb9cj62o8162shvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

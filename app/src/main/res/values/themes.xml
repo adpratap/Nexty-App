@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TestLogIn" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#780029</item>
+        <!-- Customize your theme here. -->
+
+        <item name="android:windowActivityTransitions">true</item>
+
+
+    </style>
+
+    <style name="SplashStyle" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/ssdf</item>
+        <item name="android:statusBarColor" tools:targetApi="l">#780029</item>
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+
+
+</resources>
