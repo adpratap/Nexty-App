@@ -59,8 +59,7 @@ class PhoneNo : AppCompatActivity() {
         ptextView.startAnimation(textanim)
 
 
-
-        findViewById<Button>(R.id.otpsendbtn).setOnClickListener {
+        otpsendbtn.setOnClickListener {
            if(otpid){
 
                UserData.UserName = findViewById<EditText>(R.id.Naamee).text.toString().capitalize(Locale.ROOT)
@@ -111,6 +110,7 @@ class PhoneNo : AppCompatActivity() {
 
 
                     }
+
 
                     override fun onVerificationFailed(e: FirebaseException) {
 
